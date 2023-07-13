@@ -1,2 +1,2 @@
-# widgit
-Starting Point for Using Git Branches with Your Team demos
+#widgit
+Starting Point for Using Git Branches with Your Teams demos
